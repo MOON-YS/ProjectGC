@@ -38,4 +38,12 @@
 * GCEnemy.h
   > 적 유닛의 베이스(Actor)
 
+# 주요 로직
+* 데미지 판정
+<img width="479" height="413" alt="image" src="https://github.com/user-attachments/assets/858a8834-820f-4908-b2be-ca83396b0363" />
+
+
+
+
+
 
